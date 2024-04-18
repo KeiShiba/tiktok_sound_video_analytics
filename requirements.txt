@@ -1,6 +1,6 @@
 pandas
 plotly
 streamlit
-tiktokapipy
-TikTokApi
+tiktokapipy==0.2.4.post2
+TikTokApi==6.3.0
 playwright
