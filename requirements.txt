@@ -4,6 +4,6 @@ streamlit
 playwright==1.13.0
 tiktokapipy==0.2.4
 TikTokApi==6.3.0
+asyncio
 logging
 
-asyncio
