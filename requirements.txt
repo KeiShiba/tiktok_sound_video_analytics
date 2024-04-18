@@ -5,3 +5,4 @@ tiktokapipy
 TikTokApi
 logging
 playwright
+asyncio
