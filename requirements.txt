@@ -1,5 +1,4 @@
 playwright==1.43.0
-sync_playwright
 Chromium
 pandas
 plotly
