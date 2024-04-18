@@ -2,7 +2,7 @@ pandas
 plotly
 streamlit
 tiktokapipy
-TikTokApi
+TikTokApi==6.3.0
 logging
 playwright
 asyncio
