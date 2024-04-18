@@ -1,7 +1,7 @@
 pandas
 plotly
 streamlit
-playwright==1.43.0
+playwright
 tiktokapipy==0.2.4
 TikTokApi==5.0.0
 
